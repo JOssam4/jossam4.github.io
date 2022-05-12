@@ -48,3 +48,14 @@ p {
     justify-content: center;
     max-width: 320px;
 }
+
+#classroom {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#works-cited {
+    padding: 10px 0;
+}
